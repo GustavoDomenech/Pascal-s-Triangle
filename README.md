@@ -1,4 +1,4 @@
-# Gustavo Donenech de Souza - Turma M5 
+# Gustavo Donenech de Souza - Turma M1
 
 # Pascal's Triangle
 
