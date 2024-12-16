@@ -10,9 +10,9 @@ No triângulo de Pascal, cada número é a soma dos dois números diretamente ac
  * Note: Both returned array and *columnSizes array must be malloced, assume caller calls free().
 
 # Casos Testados:
-numRows = 5
-numRows = 1
-numRows = 30
+numRows = 5.
+numRows = 1.
+numRows = 30.
 
 # Problemas em Aula
 Estava com dificuldades para implementar o código, já estava com a lógica e o que era necessário fazer, mas naõ estava conseguindo traduzir isso para C.
