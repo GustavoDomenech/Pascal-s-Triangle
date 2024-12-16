@@ -14,7 +14,7 @@ numRows = 5.
 
 numRows = 1.
 
-numRows = 30.
+numRows = 22.
 
 # Problemas em Aula
 Estava com dificuldades para implementar o código, já estava com a lógica e o que era necessário fazer, mas naõ estava conseguindo traduzir isso para C.
