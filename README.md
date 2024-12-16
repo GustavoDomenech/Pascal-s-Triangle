@@ -11,7 +11,9 @@ No triângulo de Pascal, cada número é a soma dos dois números diretamente ac
 
 # Casos Testados:
 numRows = 5.
+
 numRows = 1.
+
 numRows = 30.
 
 # Problemas em Aula
